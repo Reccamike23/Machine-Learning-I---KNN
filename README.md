@@ -1,1 +1,3 @@
-# Machine-Learning-I---KNN
+# Machine-Learning-I-- Lab 1: K-NearestNeighbour (KNN)
+
+First lab activity we will be using a dataset which contains the chemical compositions of different wines. More information about the dataset can be found here: https://archive.ics.uci.edu/ml/datasets/wine. This dataset is built-in the scikit-learn library and we can load it directly from there. Recall that KNNs are used for classification predictions based on the 'closeness' of our input to other datapoints. KNNs use distance metrics such as euclidean, manhattan, jaccard, etc; with euclidean being the most widely used and the default metric in the scikit-learn library.
